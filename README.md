@@ -1,5 +1,8 @@
 # Data Integration Project with Talend
 
+
+![Alt text](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/01/Talend-ETL-0.png)
+
 ## Overview
 
 This project focuses on designing, developing, and implementing data integration jobs using Talend. The primary goal is to split a given CSV dataset into three formats (JSON, database, and CSV) using a previously created Data Splitter script. The following tasks will be performed as part of this project:
