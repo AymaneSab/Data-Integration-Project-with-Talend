@@ -50,9 +50,4 @@ The project is organized into the following directories:
 - **docs:**
   - Includes documentation related to data sources, transformations, and architecture.
 
-## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd data-integration-talend
